@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/></div>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -25,7 +25,7 @@
 
 - :zap: In my free time, I learn more about web development and ai technologies.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdelrahman Yasser-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-yasser-4327041a3/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abdelrahman-Yasser-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-yasser-4327041a3/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
